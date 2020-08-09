@@ -1,0 +1,424 @@
+/* Rows and Text */
+
+.row-black {
+  border-top: black;
+  border-bottom: black;
+  border-style: solid;
+  border-width: 5px;
+  height: 20px;
+}
+
+.top-buffer {
+  margin: 40px;
+}
+
+.header-text {
+  font-size: 150px;
+  margin-top: 500px;
+  color: white;
+}
+
+.about-text {
+  text-align: center;
+}
+
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+.contact {
+  height: 50px;
+  text-align: center;
+  margin-left: 50%;
+}
+
+/* Images */
+
+.info-img {
+  height: 200px;
+  width: 200px;
+  z-index: 1;
+}
+
+.education-img {
+  height: 200px;
+}
+
+.project-img {
+  height: 150px;
+  width: 250px;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: black;
+  border-style: solid;
+}
+
+.speaking-img {
+  height: 275px;
+  width: 300px;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: black;
+  border-style: solid;
+}
+
+.preview-img {
+  height: 250px;
+  width: 300px;
+}
+
+.preview-img-books {
+  height: 400px;
+  width: 200px;
+}
+
+footer {
+  color: black;
+}
+
+.nowknow-img {
+  height: 150px;
+  width: 250px;
+  border-radius: 5px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.logos {
+  height: 100px;
+  width: 200px;
+}
+
+/* Circular Images */
+
+.circular-racgp {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/RACGP.png");
+  background-size: 90% 90%;
+  background-position: 8px 0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  background-repeat: no-repeat;
+  background-color: white;
+}
+
+.circular-sabis {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/sabis.png");
+  background-size: 180% 180%;
+  background-position: -60px -60px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  background-repeat: no-repeat;
+  background-color: white;
+}
+
+.circular-science-festival {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/science-festival.jpg");
+  background-size: 250% 150%;
+  background-position: -110px -30px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  background-repeat: no-repeat;
+  background-color: white;
+}
+
+.circular-ceo {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/ceo-for-one-month.jpg");
+  background-size: 100% 100%;
+  background-position: 0px 0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-hashcode {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/hashcode.jpg") no-repeat;
+  background-color: white;
+  background-size: 80% 80%;
+  background-position: 15px 10px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-google {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/google.jpg") no-repeat;
+  background-color: white;
+  background-size: 99% 55%;
+  background-position: 0px 35px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-global-impact {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/palantir.jpg") no-repeat;
+  background-color: black;
+  background-size: 100% 100%;
+  background-position: 3px 5px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-fb {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/facebook.png") no-repeat;
+  background-color: black;
+  background-size: 100% 100%;
+  background-position: 0px 0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-hdu {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/hdu.png") no-repeat;
+  background-color: white;
+  background-size: 130% 100%;
+  background-position: -16px 0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-tedx {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/tedx.png") no-repeat;
+  background-color: white;
+  background-size: 115% 115%;
+  background-position: -12px -6px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-toptal {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/toptal.webp") no-repeat;
+  background-color: white;
+  background-size: 115% 115%;
+  background-position: -12px -9px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-ifh {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/ifh.jpg") no-repeat;
+  background-color: white;
+  background-size: 183% 107%;
+  background-position: -63px -7px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-btjc {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/btjc.jpg") no-repeat;
+  background-color: white;
+  background-size: 183% 107%;
+  background-position: -63px -7px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+.circular-wiml {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/silverpond.jpeg") no-repeat;
+  background-color: white;
+  background-size: 100% 100%;
+  background-position: -0px -0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+.circular-df {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/df.png") no-repeat;
+  background-color: white;
+  background-size: 100% 100%;
+  background-position: -0px -0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-mg {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/mg.png") no-repeat;
+  background-color: white;
+  background-size: 100% 100%;
+  background-position: -0px -0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+.circular-code-camp {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/code-camp.png") no-repeat;
+  background-color: white;
+  background-size: 100% 100%;
+  background-position: -0px -0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-code-camp {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/code-camp.png") no-repeat;
+  background-color: white;
+  background-size: 100% 100%;
+  background-position: -0px -0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-vccc {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/vccc.jpeg") no-repeat;
+  background-color: white;
+  background-size: 100% 100%;
+  background-position: -0px -0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-unimelb {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/unimelb.jpg") no-repeat;
+  background-color: white;
+  background-size: 100% 100%;
+  background-position: -0px -0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-awecademy {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/awecademy.jpg") no-repeat;
+  background-color: white;
+  background-size: 130% 100%;
+  background-position: -20px 0px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
+.circular-nyuad {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/nyuad.png") no-repeat;
+  background-color: white;
+  background-size: 140% 140%;
+  background-position: -26px -3px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
