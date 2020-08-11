@@ -2741,7 +2741,7 @@ button:disabled,
 
 .wrapper.style1 {
   background-color: #21b2a6;
-  color: #c7ebe8;
+  color: white;
 }
 
 .wrapper.style1 strong,
@@ -2782,7 +2782,7 @@ button:disabled,
 }
 
 .wrapper.style1 header.major p {
-  color: #c7ebe8;
+  color: white;
 }
 
 .wrapper.style1 label {
