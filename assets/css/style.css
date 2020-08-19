@@ -102,7 +102,7 @@ footer {
   -moz-border-radius: 150px;
   background: url("../../images/RACGP.png");
   background-size: 90% 90%;
-  background-position: 8px 0px;
+  background-position: 8px 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -150,7 +150,7 @@ footer {
   -moz-border-radius: 150px;
   background: url("../../images/ceo-for-one-month.jpg");
   background-size: 100% 100%;
-  background-position: 0px 0px;
+  background-position: 0 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -180,7 +180,7 @@ footer {
   background: url("../../images/google.jpg") no-repeat;
   background-color: white;
   background-size: 99% 55%;
-  background-position: 0px 35px;
+  background-position: 0 35px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -195,7 +195,7 @@ footer {
   background: url("../../images/palantir.jpg") no-repeat;
   background-color: black;
   background-size: 100% 100%;
-  background-position: 3px 5px;
+  background-position: 0 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -210,7 +210,7 @@ footer {
   background: url("../../images/facebook.png") no-repeat;
   background-color: black;
   background-size: 100% 100%;
-  background-position: 0px 0px;
+  background-position: 0 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -225,7 +225,7 @@ footer {
   background: url("../../images/hdu.png") no-repeat;
   background-color: white;
   background-size: 130% 100%;
-  background-position: -16px 0px;
+  background-position: -16px 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -299,7 +299,7 @@ footer {
   background: url("../../images/silverpond.jpeg") no-repeat;
   background-color: white;
   background-size: 100% 100%;
-  background-position: -0px -0px;
+  background-position: 0 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -313,7 +313,7 @@ footer {
   background: url("../../images/df.png") no-repeat;
   background-color: white;
   background-size: 100% 100%;
-  background-position: -0px -0px;
+  background-position: 0 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -328,7 +328,7 @@ footer {
   background: url("../../images/mg.png") no-repeat;
   background-color: white;
   background-size: 100% 100%;
-  background-position: -0px -0px;
+  background-position: 0 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -342,7 +342,7 @@ footer {
   background: url("../../images/code-camp.png") no-repeat;
   background-color: white;
   background-size: 100% 100%;
-  background-position: -0px -0px;
+  background-position: 0 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -357,7 +357,7 @@ footer {
   background: url("../../images/code-camp.png") no-repeat;
   background-color: white;
   background-size: 100% 100%;
-  background-position: -0px -0px;
+  background-position: 0 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -369,10 +369,10 @@ footer {
   border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
-  background: url("../../images/vccc.jpeg") no-repeat;
+  background: url("../../images/vccc.png") no-repeat;
   background-color: white;
   background-size: 100% 100%;
-  background-position: -0px -0px;
+  background-position: 0 3px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -384,10 +384,10 @@ footer {
   border-radius: 150px;
   -webkit-border-radius: 150px;
   -moz-border-radius: 150px;
-  background: url("../../images/unimelb.jpg") no-repeat;
+  background: url("../../images/unimelb.png") no-repeat;
   background-color: white;
-  background-size: 100% 100%;
-  background-position: -0px -0px;
+  background-size: 200% 200%;
+  background-position: -74px -80px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -402,7 +402,7 @@ footer {
   background: url("../../images/awecademy.jpg") no-repeat;
   background-color: white;
   background-size: 130% 100%;
-  background-position: -20px 0px;
+  background-position: -20px 0;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
@@ -417,7 +417,7 @@ footer {
   background: url("../../images/nyuad.png") no-repeat;
   background-color: white;
   background-size: 140% 140%;
-  background-position: -26px -3px;
+  background-position: -30px -3px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
