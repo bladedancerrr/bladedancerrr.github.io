@@ -320,6 +320,21 @@ footer {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
 }
 
+.circular-als {
+  width: 150px;
+  height: 150px;
+  border-radius: 150px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  background: url("../../images/als.png") no-repeat;
+  background-color: white;
+  background-size: 145% 100%;
+  background-position: 12px 14px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+  -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
+}
+
 .circular-df {
   width: 150px;
   height: 150px;
