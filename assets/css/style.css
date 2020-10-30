@@ -328,8 +328,8 @@ footer {
   -moz-border-radius: 150px;
   background: url("../../images/als.png") no-repeat;
   background-color: white;
-  background-size: 145% 100%;
-  background-position: 12px 14px;
+  background-size: 85% 85%;
+  background-position: 10px 3px;
   box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, 0.8);
